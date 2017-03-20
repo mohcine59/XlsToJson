@@ -1,0 +1,246 @@
+[ {
+  "_id" : "AR",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Argentina",
+    "FR" : "Argentine"
+  }
+}, {
+  "_id" : "BR",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Brazil",
+    "FR" : "Brésil"
+  }
+}, {
+  "_id" : "CA",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Canada",
+    "FR" : "Canada"
+  }
+}, {
+  "_id" : "CH",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Chile",
+    "FR" : "Chili"
+  }
+}, {
+  "_id" : "GU",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Guatemala",
+    "FR" : "Guatemala"
+  }
+}, {
+  "_id" : "ME",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Mexico",
+    "FR" : "Mexique"
+  }
+}, {
+  "_id" : "UN",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "United States",
+    "FR" : "États Unis"
+  }
+}, {
+  "_id" : "AU",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Australia",
+    "FR" : "Australie"
+  }
+}, {
+  "_id" : "CH",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "China ",
+    "FR" : "Chine"
+  }
+}, {
+  "_id" : "IN",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Inde",
+    "FR" : "Inde"
+  }
+}, {
+  "_id" : "JA",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Japan",
+    "FR" : "Japon"
+  }
+}, {
+  "_id" : "PH",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Philippines",
+    "FR" : "Philippines"
+  }
+}, {
+  "_id" : "SI",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Singapore ",
+    "FR" : "Singapour"
+  }
+}, {
+  "_id" : "VI",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Vietnam",
+    "FR" : "Viêt-Nam"
+  }
+}, {
+  "_id" : "AU",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Austria",
+    "FR" : "Autriche"
+  }
+}, {
+  "_id" : "BE",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Belgium",
+    "FR" : "Belgique"
+  }
+}, {
+  "_id" : "CR",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Croatia",
+    "FR" : "Croatie"
+  }
+}, {
+  "_id" : "CZ",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Czech Republic ",
+    "FR" : "République Tchèque"
+  }
+}, {
+  "_id" : "DE",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Denmark",
+    "FR" : "Danemark"
+  }
+}, {
+  "_id" : "FI",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Finland ",
+    "FR" : "Finlande"
+  }
+}, {
+  "_id" : "FR",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "France",
+    "FR" : "France"
+  }
+}, {
+  "_id" : "GE",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Germany",
+    "FR" : "Allemagne"
+  }
+}, {
+  "_id" : "HU",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Hungary ",
+    "FR" : "Hongrie"
+  }
+}, {
+  "_id" : "IT",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Italy ",
+    "FR" : "Italie"
+  }
+}, {
+  "_id" : "NE",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Netherlands ",
+    "FR" : "Pays-Bas"
+  }
+}, {
+  "_id" : "NO",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Norway ",
+    "FR" : "Norvège"
+  }
+}, {
+  "_id" : "PO",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Poland ",
+    "FR" : "Pologne"
+  }
+}, {
+  "_id" : "PO",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Portugal ",
+    "FR" : "le Portugal"
+  }
+}, {
+  "_id" : "RO",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Romania ",
+    "FR" : "Roumanie"
+  }
+}, {
+  "_id" : "SL",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Slovakia ",
+    "FR" : "Slovaquie"
+  }
+}, {
+  "_id" : "SP",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Spain ",
+    "FR" : "l'Espagne"
+  }
+}, {
+  "_id" : "SW",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Switzerland ",
+    "FR" : "Suisse"
+  }
+}, {
+  "_id" : "UN",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "United Kingdom ",
+    "FR" : "Royaume-Uni"
+  }
+}, {
+  "_id" : "SA",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "Saudi Arabia",
+    "FR" : "Arabie Saoudite"
+  }
+}, {
+  "_id" : "UN",
+  "_class" : "com.capgemini.gari.entities.collaborativeWs.CountryEntity",
+  "labels" : {
+    "EN" : "United Arab Emirates ",
+    "FR" : "Emirats Arabes Unis"
+  }
+} ]
